@@ -12,5 +12,5 @@ Languages and Tools:
 </p>
 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tural-mammadli-a52697224/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tural-mammadli-a52697224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="your-linkedin" height="30" width="40" /></a>
 </p>
